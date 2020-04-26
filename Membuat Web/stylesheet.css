@@ -1,0 +1,98 @@
+body {
+  font-family: "Avenir Next";
+}
+
+.header {
+  background-color: #34495e;
+  height: 90px;
+  color: white;
+}
+
+.header-logo {
+  float: left;
+  font-size: 36px;
+  padding: 20px 40px;
+}
+
+.header-logo span{
+  color: rgb(231, 76, 60);
+}
+
+.header-right{
+  float: right;
+  padding: 33px 20px;
+}
+
+.header-right a {
+  line-height: 10px;
+  padding: 10px;
+  color: white;
+  display: block;
+  float: left;
+  transition: all 0.5s;
+}
+
+.header-right a:hover {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+.main {
+  background-image: url(https://ak2.picdn.net/shutterstock/videos/11077802/thumb/1.jpg);
+  padding: 100px 0px 100px 0px;
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
+
+.top_main h1{
+  font-size: 45px;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+  color: rgb(231, 76, 60);
+}
+
+.top_main p{
+  color: white;
+  font-size: 25px;
+}
+
+.top_main span{
+  color: rgb(231, 76, 60);
+}
+.extra1 {
+  background-color: #fbc531;
+  height: 500px;
+}
+
+.section-title {
+  border-bottom: 2px solid #dee7ec;
+  font-size: 28px;
+  padding-bottom: 15px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.member {
+  float: left;
+  margin-right: 20px;
+  padding-left: 40px;
+}
+
+.extra2 {
+  background-color: #4cd137;
+  height:300px;
+  border-radius: 5px;
+  padding: 20px;
+  text-align: center;
+}
+
+.footer {
+  background-color: #34495e;
+  height: 90px;
+  color: white;
+}
+
+.header-logo {
+  float: left;
+  font-size: 36px;
+}
